@@ -1,5 +1,5 @@
 
-require "../src/app/entity/user_entity"
+require "../entity/user_entity"
 module App
 
   # A repository manages an entity or a list of entities.

@@ -1,6 +1,6 @@
 
-require "../src/app/entity/user_entity"
-require "../src/app/view/user_view"
+require "../entity/user_entity"
+require "../view/user_view"
 module App
   module FactoryView
     # A user factory view is a collection that handle several `View::UserView`.

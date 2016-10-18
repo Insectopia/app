@@ -1,9 +1,9 @@
 
-require "../src/app/repository/user_repository"
-require "../src/app/factory_view/user_factory_view"
-require "../src/app/request/register_user_request"
-require "../src/app/response/register_user_response"
-require "../src/app/validator/register_user_validator"
+require "../repository/user_repository"
+require "../factory_view/user_factory_view"
+require "../request/register_user_request"
+require "../response/register_user_response"
+require "../validator/register_user_validator"
 module App
   # UseCase is used to transform an input (`Request`)
   # into an output (`Response`).
